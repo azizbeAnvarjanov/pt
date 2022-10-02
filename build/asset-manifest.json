@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69d7d41c.css",
+    "main.js": "/static/js/main.b44f0f6b.js",
+    "static/media/Azizbek.jpg": "/static/media/Azizbek.8f7c294ce9a29add156c.jpg",
+    "index.html": "/index.html",
+    "main.69d7d41c.css.map": "/static/css/main.69d7d41c.css.map",
+    "main.b44f0f6b.js.map": "/static/js/main.b44f0f6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d7d41c.css",
+    "static/js/main.b44f0f6b.js"
+  ]
+}
